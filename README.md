@@ -3,9 +3,9 @@
 App para gestão de academias.
 Esta aplicação será formada por:
 
-# backend - Este  é api da aplicação;
-# frontend - Aplicação web;
-# mobile - Aplicativo móvel.
+1.backend - Este  é api da aplicação;
+2.frontend - Aplicação web;
+3.mobile - Aplicativo móvel.
 
 # Installing the dependencies
 
