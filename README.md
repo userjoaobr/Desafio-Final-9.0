@@ -1,6 +1,6 @@
 GymPoint
 
-App para gestão de academias - GymPoint
+App para gestão de academias.
 1. Esta aplicação será formada por:
 
 backend - Este  é api da aplicação.
@@ -42,7 +42,7 @@ Executar o comando yarn para fazer o dowload de todas as dependências necessár
 
 Iremos instalar duas imagens de dois bancos de dados: Postgres, para armazenar nossas tabelas; e o Redis, um banco extremamente performático, que será utilizado para envio de e-mails com filas. Abaixo, seguem os respectivos comandos para realizar o download:
 
-docker run --name gympoint-db -e POSTGRES_PASSWORD=gympoint -p 5432:5432 -d postgres
+sudo docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
 docker run --name redis -p 6379:6379 -d -t redis:alpine
 
 Execute yarn queue para que a fila de processamento de emails esteja funcionando.
