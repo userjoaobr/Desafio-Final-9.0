@@ -3,15 +3,15 @@
 App para gestão de academias.
 Esta aplicação será formada por:
 
-1.backend - Este  é api da aplicação;
-2.frontend - Aplicação web;
-3.mobile - Aplicativo móvel.
+1.backend - Este  é api da aplicação
+2.frontend - Aplicação web
+3.mobile - Aplicativo móvel
 
 # Installing the dependencies
 
-yarn ou npm install
-To start the project
-yarn start ou npm start
+yarn ou npm install,
+To start the project,
+yarn start ou npm start.
 
 
 # ios
