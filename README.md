@@ -13,10 +13,6 @@ yarn ou npm install,
 To start the project,
 yarn start ou npm start.
 
-
-# ios
-react-native run-ios --simulator "iPhone X"
-
 # android
 react-native run-android
 
