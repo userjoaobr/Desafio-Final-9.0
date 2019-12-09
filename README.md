@@ -1,4 +1,4 @@
-GymPoint
+# GymPoint
 
 App para gestão de academias.
 1. Esta aplicação será formada por:
@@ -7,7 +7,7 @@ backend - Este  é api da aplicação.
 frontend - Aplicação web.
 mobile - Aplicativo móvel.
 
-Installing the dependencies
+# Installing the dependencies
 
 yarn ou npm install
 To start the project
