@@ -1,11 +1,11 @@
 # GymPoint
 
 App para gestão de academias.
-1. Esta aplicação será formada por;
+Esta aplicação será formada por:
 
-backend - Este  é api da aplicação;
-frontend - Aplicação web;
-mobile - Aplicativo móvel.
+# backend - Este  é api da aplicação;
+# frontend - Aplicação web;
+# mobile - Aplicativo móvel.
 
 # Installing the dependencies
 
